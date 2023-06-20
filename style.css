@@ -1,4 +1,5 @@
 @import url("style/header.css");
+@import url("style/banner.c");
 
 :root{
     --cor-de-fundo:#EBECEE;
@@ -14,3 +15,4 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+
